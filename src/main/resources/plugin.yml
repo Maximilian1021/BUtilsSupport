@@ -1,0 +1,8 @@
+name: BUtilsSupport
+version: ${project.version}
+main: de.butilsfaq.butilssupport.BUtilsSupport
+api-version: 1.16
+depend: [ BUtils ]
+authors: [ Maximilian1021, l4zs ]
+description: BUtils Support
+website: https://www.butils-faq.de
