@@ -1,11 +1,8 @@
-package de.butilsfaq.commands;
+package de.butilsfaq.butilssupport.commands;
 
 import java.lang.management.*;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.List;
 
-import de.butilsfaq.utils.JavaVersion;
+import de.butilsfaq.butilssupport.utils.JavaVersion;
 import net.md_5.bungee.api.chat.BaseComponent;
 import net.md_5.bungee.api.chat.ComponentBuilder;
 import net.md_5.bungee.api.chat.HoverEvent;
@@ -16,7 +13,6 @@ import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
-import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.entity.Player;
 
 public class CMD_Data implements CommandExecutor {

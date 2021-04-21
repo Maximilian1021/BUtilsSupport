@@ -1,4 +1,4 @@
-package de.butilsfaq.utils;
+package de.butilsfaq.butilssupport.utils;
 
 import com.google.common.collect.ComparisonChain;
 

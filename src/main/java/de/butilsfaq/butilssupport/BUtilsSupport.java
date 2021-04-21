@@ -1,6 +1,6 @@
 package de.butilsfaq.butilssupport;
 
-import de.butilsfaq.commands.CMD_Data;
+import de.butilsfaq.butilssupport.commands.CMD_Data;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.PluginDescriptionFile;
 import org.bukkit.plugin.PluginManager;
